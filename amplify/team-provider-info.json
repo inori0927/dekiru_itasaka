@@ -10,6 +10,14 @@
       "StackName": "amplify-dekiru2022-dev-12823",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:133612345780:stack/amplify-dekiru2022-dev-12823/845019f0-698d-11ec-ac9f-0a8dd0651e79",
       "AmplifyAppId": "d3nusbda0x3mei"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3nusbda0x3mei",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
